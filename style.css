@@ -1,0 +1,106 @@
+body {
+  background-color: purple;
+  background-image: url("controller.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 412px;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  font-size: 89px;
+}
+
+h2 {
+  color: purple;
+  text-align: center;
+  font-family: impact;
+  font-size: 50px;
+  margin: 250px 0px 0px 0px;
+}
+
+h3 {
+  color: purple;
+  text-align: center;
+  font-family: impact;
+  font-size: 40px;
+  margin: 260px 0px 0px 0px;
+}
+
+h4 {
+  color: red;
+  font-family: monaco;
+  font-size: 100px;
+  margin: 25px 0px;
+}
+
+h5 {
+  color: lightblue;
+  font-family: monaco;
+  font-size: 100px;
+  margin: 25px 0px;
+}
+
+h6 {
+  color: pink;
+  font-family: monaco;
+  font-size: 100px;
+  margin: 25px 0px;
+}
+
+h7 {
+  color: yellow;
+  font-family: monaco;
+  font-size: 75px;
+  margin: 25px 25px;
+}
+
+h8 {
+  color: white;
+  float: right;
+  font-family: courier new;
+  font-size: 50px;
+}
+
+p {
+  color: blue;  
+  text-align: center;
+  font-family: garamond;
+  font-size: 40px;
+  margin: 25px 0px;
+}
+
+img {
+  border-style: dotted;
+  border-color: blue;
+}
+
+.center {
+  display: block;
+  margin: 100px 415px 0px 415px;
+}
+
+.responsive {
+  width: 100%;
+  height: auto;
+}
+
+section {
+  background: cyan;
+  color: orange;
+  padding 100px;
+  display: flex;
+  flex-direction: row;
+}
+
+div {
+  background: gold;
+  display: inline-block;
+  height: 150px;
+  width: 225px;
+  font-size: 50px;
+  font-family: monaco;
+  text-align: center;
+  margin: auto;
+  opacity: 0.5;
+}
